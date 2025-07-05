@@ -1,7 +1,7 @@
 # 📊 Executive KPI Dashboard
 
 **Live App**: ([https://marks-predictor.streamlit.app](https://executive-kpi-dashboard-vamshi.streamlit.app/))
-**Repository**: [https://github.com/amalabera/Executive-kpi-dashboard](https://github.com/amalabera/Executive-kpi-dashboard)
+**Repository**:(https://github.com/raghuvadicherla/Executive-kpi-dashboard)
 
 ---
 
